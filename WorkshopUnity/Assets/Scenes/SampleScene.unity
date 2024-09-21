@@ -309,7 +309,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1306318741}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -385,6 +385,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4396f3e53c911344c939542c0fe82d39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
+  projectile: {fileID: 255775298699067258, guid: 686716d1d7189e647a237619e13cd906, type: 3}
   body: {fileID: 1306318744}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
