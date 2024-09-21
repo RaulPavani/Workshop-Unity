@@ -1,17 +1,25 @@
-Curso de Extensão realizado na Fatec Americana
+## Curso de Extensão Unity 2024 - Fatec Americana</h2> <br>
 
--1 Aula-
-[Interface do editor](https://docs.unity3d.com/Manual/UsingTheEditor.html)
-[GameObjects](https://docs.unity3d.com/Manual/GameObjects.html)
-[Scripting](https://docs.unity3d.com/Manual/ScriptingSection.html)
-[GetComponent](https://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html)
+### 1 Aula <br>
+[Interface do editor](https://docs.unity3d.com/Manual/UsingTheEditor.html) <br>
+[GameObjects](https://docs.unity3d.com/Manual/GameObjects.html) <br>
+[Scripting](https://docs.unity3d.com/Manual/ScriptingSection.html) <br>
+[GetComponent](https://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html) <br>
 
 [Curso básico da própria Unity](https://learn.unity.com/pathway/unity-essentials) 
 
--2 Aula-
+<br>
+### 2 Aula 
 🚧
--3 Aula-
+
+<br>
+### 3 Aula
 🚧
--4 Aula-
+
+<br>
+### 4 Aula
 🚧
--5 Aula-
+
+<br>
+### 5 Aula
+🚧
