@@ -25,7 +25,7 @@
 🧑‍🎓[Curso Unity sobre Programação Orientada a Objetos](https://learn.unity.com/mission/source-control-and-optimization) <br>
 🧑‍🎓[Curso Unity sobre Design Patterns](https://learn.unity.com/project/65de084fedbc2a0699d68bfb) <br>
 🧑‍🎓[Video sobre Invoke x Coroutine](https://www.youtube.com/watch?v=d-HfLBXJ17k)<br>
-🧑‍🎓[Detectando Colisões](https://www.youtube.com/watch?v=jTxBGT28a4U)<br>
+🧑‍🎓[Video sobre colisões](https://www.youtube.com/watch?v=jTxBGT28a4U)<br>
 
 <br>
 ### 4 Aula
