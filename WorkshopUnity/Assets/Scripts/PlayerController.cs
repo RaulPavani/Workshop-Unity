@@ -28,8 +28,6 @@ public class PlayerController : MonoBehaviour
 
         mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
-        print(mousePos);
-
         if (Input.GetMouseButtonDown(0))
         {
             Shoot();
