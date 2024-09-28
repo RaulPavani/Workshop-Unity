@@ -17,9 +17,15 @@
 🧑‍🎓[Video sobre Quaternion](https://www.youtube.com/watch?v=RQHG_Tv9vzA&t)<br>
 🧑‍🎓[Video sobre Movimentação ](https://www.youtube.com/watch?v=K7Ne0wzyNbA)<br>
 
-<br>
-### 3 Aula
-🚧
+### 3 Aula <br>
+🔗[OnTriggerEnter2D](https://docs.unity3d.com/ScriptReference/MonoBehaviour.OnTriggerEnter2D.html) <br>
+🔗[Invoke](https://docs.unity3d.com/ScriptReference/MonoBehaviour.Invoke.html)<br>
+🔗[Destroy Gameobjects](https://docs.unity3d.com/ScriptReference/Object.Destroy.html) <br>
+
+🧑‍🎓[Curso Unity sobre Programação Orientada a Objetos](https://learn.unity.com/mission/source-control-and-optimization) <br>
+🧑‍🎓[Curso Unity sobre Design Patterns](https://learn.unity.com/project/65de084fedbc2a0699d68bfb) <br>
+🧑‍🎓[Video sobre Invoke x Coroutine](https://www.youtube.com/watch?v=d-HfLBXJ17k)<br>
+🧑‍🎓[Detectando Colisões](https://www.youtube.com/watch?v=jTxBGT28a4U)<br>
 
 <br>
 ### 4 Aula
