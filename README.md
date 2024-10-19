@@ -27,10 +27,16 @@
 🧑‍🎓[Video sobre Invoke x Coroutine](https://www.youtube.com/watch?v=d-HfLBXJ17k)<br>
 🧑‍🎓[Video sobre colisões](https://www.youtube.com/watch?v=jTxBGT28a4U)<br>
 
-<br>
 ### 4 Aula
-🚧
+🔗[Unity Events](https://docs.unity3d.com/ScriptReference/Events.UnityEvent.html)<br>
+🔗[Animations Parameter](https://docs.unity3d.com/Manual/AnimationParameters.html)<br>
+🔗[Blend Tree Animations](https://docs.unity3d.com/Manual/class-BlendTree.html)<br>
 
-<br>
+🧑‍🎓[Video sobre Unity Events](https://www.youtube.com/watch?v=OcG0-ZX3wJk)<br>
+🧑‍🎓[Video sobre tilemap na Unity](https://www.youtube.com/watch?v=0_YgVUdoAyc)<br>
+🧑‍🎓[Video de como fazer tilemaps no Aseprite](https://www.youtube.com/watch?v=QprAkgeyWo8)<br>
+🧑‍🎓[Video sobre animaçoes na Unity](https://www.youtube.com/watch?v=sleX2VU0XvY)<br>
+
+
 ### 5 Aula
 🚧
