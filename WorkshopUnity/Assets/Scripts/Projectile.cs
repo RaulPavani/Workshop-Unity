@@ -10,7 +10,8 @@ public class Projectile : MonoBehaviour
     void Start()
     {
         //Invoke("Kill", timeToDestroy);
-        StartCoroutine(KillAfterTime());
+        //StartCoroutine(KillAfterTime());
+        Destroy(gameObject, timeToDestroy);
     }
 
     IEnumerator KillAfterTime()
