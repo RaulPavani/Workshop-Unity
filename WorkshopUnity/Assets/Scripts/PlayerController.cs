@@ -10,10 +10,12 @@ public class PlayerController : MonoBehaviour
     public float speed = 5;
     public GameObject projectile;
     public Rigidbody2D body;
+    [SerializeField]private Animator anim;
 
     void Start()
     {
         body = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     void Update()
@@ -25,6 +27,18 @@ public class PlayerController : MonoBehaviour
     {
         input.x = Input.GetAxisRaw("Horizontal");
         input.y = Input.GetAxisRaw("Vertical");
+
+        anim.SetFloat("x", input.x);
+        anim.SetFloat("y", input.y);
+        //anim.SetBool("walking", input.x != 0 || input.y != 0)
+        if (input.x != 0 || input.y != 0)
+        {
+            anim.SetBool("walking", true);
+        }
+        else
+        {
+            anim.SetBool("walking", false);
+        }
 
         mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 
@@ -45,5 +59,22 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         body.velocity = input.normalized * speed;
+    }
+
+    public float life = 5;
+    //private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            life--; //life = life - 1
+
+            if(life <= 0)
+            {
+                //TODO: Animação morrendo
+                Destroy(gameObject);
+                GameManager.instance.GameOver();
+            }
+        }
     }
 }
