@@ -6,6 +6,7 @@ using UnityEngine;
 public class Projectile : MonoBehaviour
 {
     public float timeToDestroy = 5f;
+    public GameObject hitVfx;
 
     void Start()
     {
@@ -34,6 +35,7 @@ public class Projectile : MonoBehaviour
             if (enemy != null)
             {
                 enemy.TakeDamage(1);
+                Instantiate(hitVfx, collision.ClosestPoint(transform.position), Quaternion.identity);
                 Destroy(gameObject);
             }
         }

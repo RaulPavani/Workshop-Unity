@@ -163,6 +163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeToDestroy: 5
+  hitVfx: {fileID: 7483120841361367337, guid: 4f68e27d67d992c439d84f870920a1f9, type: 3}
 --- !u!95 &3737573627651980737
 Animator:
   serializedVersion: 5
