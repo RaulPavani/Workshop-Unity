@@ -6,7 +6,9 @@ using UnityEngine.Events;
 public class EnemySpawner : MonoBehaviour
 {
     public GameObject enemyPrefab;
-    public float timeToSpawn = 3f;
+    public float timeMinSpawn = 1.5f;
+    public float timeMaxSpawn = 4f;
+    float timeToSpawn => Random.Range(timeMinSpawn, timeMaxSpawn);
 
     public UnityEvent spawnEvent;
 
