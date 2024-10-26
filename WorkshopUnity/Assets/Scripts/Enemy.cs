@@ -57,6 +57,7 @@ public class Enemy : MonoBehaviour
             {
                 animator.SetBool("dead", true);
                 col.enabled = false;
+                body.simulated = false;
                 Kill();
             }
         }
