@@ -12,7 +12,7 @@
 🔗[Script Lifecycle](https://docs.unity3d.com/Manual/ExecutionOrder.html) <br>
 🔗[Inputs](https://docs.unity3d.com/ScriptReference/Input.html) <br>
 🔗[Prefabs](https://docs.unity3d.com/Manual/Prefabs.html) <br>
-[🔗Instantiate](https://docs.unity3d.com/ScriptReference/Object.Instantiate.html) <br>
+🔗[Instantiate](https://docs.unity3d.com/ScriptReference/Object.Instantiate.html) <br>
 
 🧑‍🎓[Video sobre Quaternion](https://www.youtube.com/watch?v=RQHG_Tv9vzA&t)<br>
 🧑‍🎓[Video sobre Movimentação ](https://www.youtube.com/watch?v=K7Ne0wzyNbA)<br>
@@ -39,4 +39,22 @@
 
 
 ### 5 Aula
-🚧
+🔗[SceneManager](https://docs.unity3d.com/ScriptReference/SceneManagement.SceneManager.html)<br>
+🔗[Canvas](https://docs.unity3d.com/Packages/com.unity.ugui@3.0/manual/UICanvas.html)<br>
+🔗[Sprite Atlas](https://www.crieseusjogos.com.br/sprite-atlas/)<br>
+
+🧑‍🎓[Video sobre Singleton](https://www.youtube.com/watch?v=LS7CG-tryWM)<br>
+🧑‍🎓[Video sobre Canvas e UI](https://www.youtube.com/watch?v=-Z5EQfYIgMs)<br>
+
+### Extra
+
+Canais para continuar estudando:
+
+https://www.youtube.com/@unity <br>
+https://www.youtube.com/@Brackeys <br>
+https://www.youtube.com/@mixandjam <br>
+https://www.youtube.com/@CodeMonkeyUnity <br>
+https://www.youtube.com/@Blackthornprod <br>
+https://www.youtube.com/@UGuruz <br>
+https://www.youtube.com/@SpeedTutor <br>
+https://learn.unity.com/ <br>
